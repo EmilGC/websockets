@@ -1,6 +1,7 @@
 package dk.clbo.model;
 
 public class HelloMessage {
+
     private String name;
 
     public HelloMessage() {

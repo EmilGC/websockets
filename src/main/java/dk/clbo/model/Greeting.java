@@ -2,7 +2,7 @@ package dk.clbo.model;
 
 public class Greeting {
 
-    private String content;
+    private String content; // Hello <<name>>
 
     public Greeting() {
     }
